@@ -1,0 +1,9 @@
+.DS_Store
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+/output/pdf/flyer-preview.png
